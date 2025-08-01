@@ -157,10 +157,10 @@ R: ¡Absolutamente! Puedes adaptar el sistema para cualquier dominio.
 
 ## 🌟 Agradecimientos
 
+- A la comunidad de **Google Developers Group Menorca** por invitarme a impartir este taller
 - **Google Cloud** por Vertex AI y las herramientas de IA
 - **Google Colab** por el entorno de desarrollo gratuito
 - **Gradio** por hacer las interfaces web tan sencillas
-- **Comunidad de desarrolladores** por el feedback y contribuciones
 
 ---
 
