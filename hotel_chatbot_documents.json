@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Hotel Overview",
+      "purpose": "Descripción general del hotel, incluyendo su marca, ubicación, ambiente y lo que lo hace único.",
+      "prompt": "Genera una descripción detallada de un hotel ficticio de 4 estrellas llamado 'Azure Palm Resort'. Incluye su ubicación (por ejemplo, ciudad costera), categoría, ambiente, tipo de huéspedes (familias, viajeros de negocios, parejas), número de habitaciones, elementos de diseño destacados y cualquier rasgo histórico o singular. Usa un tono profesional y amable, como si fuera para la página web del hotel."
+    },
+    {
+      "title": "Room Types & Features",
+      "purpose": "Informar a los huéspedes sobre las diferentes categorías de habitaciones, sus comodidades y rangos de precios.",
+      "prompt": "Redacta un documento detallado que describa cinco tipos de habitaciones en un hotel de 4 estrellas: Habitación Estándar, Habitación Deluxe, Suite Ejecutiva, Suite Familiar y Penthouse. Incluye tipo de cama, tamaño en metros cuadrados, servicios (Wi-Fi, minibar, etc.), ocupación máxima, opciones de vista y un rango de precios aproximado."
+    },
+    {
+      "title": "Booking Policy",
+      "purpose": "Explicar los procedimientos para reservar, modificar o cancelar reservas.",
+      "prompt": "Escribe una explicación clara sobre la política de reservas del hotel. Incluye los métodos de reserva (online, teléfono, plataformas de terceros), formas de pago aceptadas, política de cancelación (gratuita, con penalización), horarios de check-in/check-out y posibles requisitos de depósito."
+    },
+    {
+      "title": "Check-in / Check-out Information",
+      "purpose": "Establecer expectativas sobre el proceso de llegada y salida del hotel.",
+      "prompt": "Escribe una guía para los huéspedes explicando los procedimientos de check-in y check-out del hotel, incluyendo horarios regulares, políticas para entradas tempranas o salidas tardías, requisitos de identificación y servicios de conserjería disponibles a la llegada o salida."
+    },
+    {
+      "title": "Dining Options",
+      "purpose": "Describir los restaurantes dentro del hotel, servicio a la habitación y experiencias gastronómicas especiales.",
+      "prompt": "Genera contenido que describa tres opciones gastronómicas dentro de un hotel de alta gama: un restaurante de alta cocina, una cafetería informal y un bar en la azotea. Incluye horarios de atención, tipos de cocina, política de reservas y disponibilidad de room service."
+    },
+    {
+      "title": "Facilities & Amenities",
+      "purpose": "Enumerar las instalaciones como piscinas, gimnasios, spas, salones, etc.",
+      "prompt": "Lista y describe las instalaciones clave ofrecidas en un hotel de lujo, como gimnasio, spa, piscina, centro de negocios, salas de conferencias y lounge. Incluye horarios de funcionamiento y servicios especiales disponibles."
+    },
+    {
+      "title": "Local Attractions & Recommendations",
+      "purpose": "Ayudar a los huéspedes a explorar los alrededores del hotel.",
+      "prompt": "Redacta una guía con 5 atracciones imperdibles cerca de un hotel tipo resort costero. Incluye distancias a pie, consejos para el viaje, tarifas de entrada si las hay y por qué cada lugar vale la pena visitar."
+    },
+    {
+      "title": "Transportation & Directions",
+      "purpose": "Explicar cómo llegar al hotel y cómo moverse por la zona.",
+      "prompt": "Crea una guía de transporte para los huéspedes que se alojan en un resort junto al mar. Incluye cómo llegar desde el aeropuerto o estación más cercana, opciones de estacionamiento, disponibilidad de taxis/plataformas de movilidad y servicios de traslado ofrecidos por el hotel."
+    },
+    {
+      "title": "FAQ",
+      "purpose": "Responder preguntas frecuentes de los huéspedes.",
+      "prompt": "Genera una sección de preguntas frecuentes para los huéspedes del hotel que incluya temas como Wi-Fi, políticas de mascotas, estacionamiento, zonas para fumar, accesibilidad, lavandería, objetos perdidos y servicios nocturnos. Utiliza un formato claro de pregunta y respuesta."
+    },
+    {
+      "title": "Hotel Policies",
+      "purpose": "Resumir políticas generales (mascotas, fumar, ruido, seguridad, etc.).",
+      "prompt": "Redacta un documento que resuma las políticas clave del hotel, incluyendo admisión de mascotas, restricciones para fumar, horarios de silencio, reglas para visitantes, uso de las instalaciones y protocolos de contacto en caso de emergencia. Usa un tono profesional adecuado para un manual del huésped."
+    },
+    {
+      "title": "Event & Meeting Services",
+      "purpose": "Promocionar el hotel como sede para eventos sociales o de negocios.",
+      "prompt": "Crea contenido promocional que detalle los servicios para eventos y reuniones del hotel, incluyendo espacios disponibles, capacidad, equipo audiovisual, servicio de catering, paquetes y proceso de reserva. Enfoca el contenido hacia clientes corporativos y bodas."
+    },
+    {
+      "title": "Loyalty Program",
+      "purpose": "Explicar los beneficios de unirse al programa de fidelización del hotel.",
+      "prompt": "Describe un programa de fidelización ficticio llamado 'Azure Elite Rewards'. Incluye niveles, cómo acumular puntos, beneficios para los miembros (noches gratis, mejoras de habitación, check-out tardío) y el proceso para unirse."
+    }
+  ]
+  
